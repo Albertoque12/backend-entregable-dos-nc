@@ -1,0 +1,11 @@
+[
+  {
+    "title": "El principito",
+    "description": "Para niños",
+    "price": 250,
+    "thumbnail": "image",
+    "code": 1556,
+    "stock": 5,
+    "id": 2
+  }
+]
